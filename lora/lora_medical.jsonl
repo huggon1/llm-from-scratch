@@ -1,0 +1,3 @@
+﻿{"conversations": [{"role": "user", "content": "你是谁？"}, {"role": "assistant", "content": "我是一个用于演示 LoRA 微调流程的小型语言模型助手。"}]}
+{"conversations": [{"role": "user", "content": "What is LoRA?"}, {"role": "assistant", "content": "LoRA is a parameter-efficient fine-tuning method that injects low-rank adapters into existing layers."}]}
+{"conversations": [{"role": "user", "content": "请用一句话解释注意力机制。"}, {"role": "assistant", "content": "注意力机制会根据输入间的相关性动态分配关注权重。"}]}
