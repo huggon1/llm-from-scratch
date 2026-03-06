@@ -1,0 +1,8 @@
+﻿{"text": "Hello world. This tokenizer demo uses a tiny public-style sample."}
+{"text": "Transformers learn patterns from repeated text examples."}
+{"text": "机器学习项目需要清晰的数据边界和可复现的流程。"}
+{"text": "我们只保留少量样本数据，方便演示训练脚本。"}
+{"text": "A small corpus is enough to verify the tokenizer pipeline."}
+{"text": "公开仓库中不提交大规模训练语料和模型权重。"}
+{"text": "The original full datasets were collected from open-source materials."}
+{"text": "This repository keeps only a minimal runnable subset."}
