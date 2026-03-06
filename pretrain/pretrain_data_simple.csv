@@ -1,0 +1,7 @@
+﻿text
+A compact language model can be pretrained on a toy corpus.
+This sample row keeps the public repository lightweight and safe.
+多模态系统可以结合文本、图像和结构化标签完成任务。
+The original larger corpus came from open-source or publicly available data.
+We keep only a few demonstration rows in this repository.
+Clean examples make it easier to understand the training pipeline.
