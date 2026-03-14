@@ -8,6 +8,12 @@ Small, readable experiments that walk through a mini LLM pipeline:
 4. try DPO
 5. try LoRA fine-tuning
 
+## Highlights
+
+- Follows a clear learning path from tokenizer training to preference optimization
+- Keeps each stage in a separate folder so experiments stay easy to inspect
+- Uses tiny public-safe samples so the repository remains runnable and lightweight
+
 ## Layout
 
 ```text
@@ -86,6 +92,8 @@ python main.py
 cd lora
 python main.py
 ```
+
+In practice, the easiest way to explore the repo is to read `docs/` first, then run the tokenizer and pretrain stages before looking at SFT, DPO, and LoRA.
 
 ## Notes
 
